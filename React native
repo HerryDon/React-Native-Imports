@@ -12,4 +12,4 @@ npm i axios
 npm i tailwindcss@latest
 npm install nativewind
 npx tailwindcss init
-npm install --save-dev @babel/core @babel/cli @babel/preset-env
+npm install --save-dev @babel/core @babel/preset-expo
